@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-## My Absolutely Aca-mazing Favorite Movie: Pitch Perfect <0xF0><0x9F><0xA5><0xB3>🎤
+## My Absolutely **Aca-mazing** Favorite Movie: Pitch Perfect 🎤
 
 ### Why *Pitch Perfect* Makes Me Want to Riff-Off!
 
@@ -14,7 +14,7 @@ My first repository
 
 **Unforgettable Characters:**
 - Beca: The rebellious but undeniably talented newcomer.
-- Fat Amy: The confident and constantly hilarious scene-stealer.
+- **Fat Amy**: The confident and constantly hilarious scene-stealer.
 - Chloe and Aubrey: The (sometimes overly) dedicated leaders.
 
 **Catchy Tunes and Mashups:**
@@ -24,6 +24,5 @@ My first repository
 
 **Laugh-Out-Loud Moments:**
 - The awkward auditions.
-- Fat Amy's one-liners.
+- **Fat Amy's** one-liners.
 - Pretty much any scene with the Treblemakers.
-
